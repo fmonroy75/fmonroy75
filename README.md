@@ -51,9 +51,8 @@ Actualmente, estoy explorando nuevas oportunidades donde pueda contribuir con mi
 
 ## 📫 **Contacto**
 
-- 📧 [example@gmail.com](mailto:francisco.monroy@gmail.com)
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/francisco-monroy-314b5337/)
-
+- 📧 [francisco.monroy@gmail.com](mailto:francisco.monroy@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/francisco-monroy-314b5337/)
 
 
 Estoy abierto a colaborar en proyectos interesantes y asumir nuevos desafíos que requieran habilidades en **gestión de proyectos tecnológicos**, **desarrollo de software**, **desarrollo de web** y **análisis de datos**. ¡No dudes en contactarme para conversar sobre oportunidades o ideas para trabajar juntos!  
