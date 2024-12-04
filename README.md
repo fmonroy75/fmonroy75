@@ -52,7 +52,7 @@ Actualmente, estoy explorando nuevas oportunidades donde pueda contribuir con mi
 ## 📫 **Contacto**
 
 - 📧 [example@gmail.com](mailto:francisco.monroy@gmail.com)
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/francisco-monroy-314b5337/))
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/francisco-monroy-314b5337/)
 
 
 
