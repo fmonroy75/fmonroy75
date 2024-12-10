@@ -42,10 +42,18 @@ Actualmente, estoy explorando nuevas oportunidades donde pueda contribuir con mi
 ### Desarrollo Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+
 
 ### ERP
 ![PeopleSoft](https://img.shields.io/badge/PeopleSoft-004B87?style=for-the-badge&logo=oracle&logoColor=white)  
+
+### Otros  
+![SEO](https://img.shields.io/badge/SEO-00C853?style=for-the-badge&logo=google&logoColor=white)  
+![ISO 9001](https://img.shields.io/badge/ISO_9001-0052CC?style=for-the-badge&logo=iso&logoColor=white)  
+![ISO 18001](https://img.shields.io/badge/ISO_18001-FF5722?style=for-the-badge&logo=iso&logoColor=white)  
+![ISO 14001](https://img.shields.io/badge/ISO_14001-4CAF50?style=for-the-badge&logo=iso&logoColor=white)  
 
 ---
 
