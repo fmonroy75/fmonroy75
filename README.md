@@ -1,6 +1,6 @@
 # Hola 👋, soy Francisco Monroy
 
-Soy un **Ingeniero en Computación y civil industrial** con más de 15 años de experiencia en **gestión de proyectos tecnológicos, desarrollo de software y liderazgo de equipos**. A lo largo de mi trayectoria, he trabajado en diversos sectores, incluyendo banca, telecomunicaciones y TI, especializándome en la **implementación de soluciones tecnológicas que optimicen procesos y mejoren la eficiencia operativa**.
+Soy un **Ingeniero en Computación y civil industrial** con más de 25 años de experiencia en **gestión de proyectos tecnológicos, desarrollo de software y liderazgo de equipos**. A lo largo de mi trayectoria, he trabajado en diversos sectores, incluyendo banca, telecomunicaciones y TI, especializándome en la **implementación de soluciones tecnológicas que optimicen procesos y mejoren la eficiencia operativa**.
 
 Me considero una persona **dedicada, honesta y orientada a resultados**, con una sólida capacidad de aprendizaje continuo y una pasión por la tecnología. Disfruto trabajar en equipo, colaborando en proyectos desafiantes donde puedo aplicar mis conocimientos y desarrollar nuevas habilidades.
 
