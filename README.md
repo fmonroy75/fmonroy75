@@ -16,6 +16,7 @@ Actualmente, estoy explorando nuevas oportunidades donde pueda contribuir con mi
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-F80000?style=for-the-badge&logo=firebase&logoColor=white)  
 
 ### Herramientas de Gestión y Control de Versiones  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -46,6 +47,7 @@ Actualmente, estoy explorando nuevas oportunidades donde pueda contribuir con mi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Wix](https://img.shields.io/badge/Wix-21759B?style=for-the-badge&logo=wix&logoColor=white)  
 
 
 ### ERP
