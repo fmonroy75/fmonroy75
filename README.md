@@ -47,7 +47,7 @@ Actualmente, estoy explorando nuevas oportunidades donde pueda contribuir con mi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-![Vue](https://img.shields.io/badge/Vue-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Vue](https://img.shields.io/badge/Vue-F7DF1E?style=for-the-badge&logo=vue&logoColor=black)  
 ![Wix](https://img.shields.io/badge/Wix-21759B?style=for-the-badge&logo=wix&logoColor=white)  
 
 
